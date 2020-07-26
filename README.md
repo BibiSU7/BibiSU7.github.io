@@ -1,2 +1,2 @@
 # BibiSU7.github.io
-Demo pago
+Demo page
